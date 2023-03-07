@@ -47,8 +47,5 @@ object **YourName** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [email](anderson.civil@hotmail.com) **|** 
 👔 [linkedin][linkedin](https://www.linkedin.com/in/andersonmann/)]
