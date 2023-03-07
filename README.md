@@ -53,7 +53,7 @@ object **YourName** {
 
 <h3> :earth_americas: &nbsp;Where to go to find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andersonmann/)
+[![Linkedin: Anderson Mann](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andersonmann/)
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
 
