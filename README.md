@@ -6,7 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```java
+```Java
 object **YourName** {
  String name = "ANDERSON MANN"
  String acknowledgements = "Quality, Automation, DevOps, Software Engineer"
@@ -51,4 +51,4 @@ object **YourName** {
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][[linkedin](https://www.linkedin.com/in/andersonmann/)]
+👔 [linkedin][linkedin](https://www.linkedin.com/in/andersonmann/)]
