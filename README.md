@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 
 [![andersonmann](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmann&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![andersonmann](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmann&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![card](https://github-readme-stats.vercel.app/api?username=andersonmann&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=andersonmann&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
