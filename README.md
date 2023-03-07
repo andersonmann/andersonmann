@@ -2,11 +2,11 @@
 
 I like automating software development processes, focusing on test automation and software engineering improvements.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```java
+```kotlin
 Object **YourName** {
  String name = "ANDERSON MANN"
  String acknowledgements = "Quality, Automation, DevOps, Software Engineer"
