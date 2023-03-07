@@ -38,23 +38,8 @@ Object **YourName** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonmann&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-🏡 [email](anderson.civil@hotmail.com) **|** 
-👔 [linkedin][linkedin](https://www.linkedin.com/in/andersonmann/)]
-
-
 <h3> :earth_americas: &nbsp;Where to go to find me: </h3> 
 
 [![Linkedin: Anderson Mann](https://img.shields.io/badge/-AndersonMann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andersonmann/)
-
 [![Gmail Badge](https://img.shields.io/badge/-anderson.civil@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
-
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/andersonmann?label=follow&style=social)](https://github.com/andersonmann)
