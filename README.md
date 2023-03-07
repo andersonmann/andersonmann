@@ -1,6 +1,6 @@
 ### Hi there👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+I like automating software development processes, focusing on test automation and software engineering improvements.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -18,7 +18,7 @@ Object **YourName** {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Tools and languages:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -28,7 +28,7 @@ Object **YourName** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmann&theme=dracula&hide_langs_below=1" />
