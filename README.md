@@ -44,4 +44,4 @@ Object **YourName** {
 [![Gmail Badge](https://img.shields.io/badge/-anderson.civil@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/andersonmann?label=follow&style=social)](https://github.com/andersonmann)
 
-[!(Outlook)](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
+[!(Outlook)](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
