@@ -53,8 +53,8 @@ Object **YourName** {
 
 <h3> :earth_americas: &nbsp;Where to go to find me: </h3> 
 
-[![Linkedin: Anderson Mann](https://img.shields.io/badge/-Anderson Mann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andersonmann/)
+[![Linkedin: Anderson Mann](https://img.shields.io/badge/-AndersonMann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andersonmann/)
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anderson.civil@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/andersonmann?label=follow&style=social)](https://github.com/andersonmann)
