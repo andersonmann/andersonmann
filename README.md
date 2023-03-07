@@ -49,3 +49,10 @@ object **YourName** {
 
 🏡 [email](anderson.civil@hotmail.com) **|** 
 👔 [linkedin][linkedin](https://www.linkedin.com/in/andersonmann/)]
+
+
+<h3> :earth_americas: &nbsp;Where to go to find me: </h3> 
+
+[![Linkedin: Anderson Mann](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/andersonmann/))
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.civil@hotmail.com)](mailto:anderson.civil@hotmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/andersonmann?label=follow&style=social)](https://github.com/andersonmann)
