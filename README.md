@@ -9,7 +9,7 @@ I like automating software development processes, focusing on test automation an
 ```kotlin
 Object **YourName** {
  String name = "ANDERSON MANN"
- String acknowledgements = "Quality, Automation, DevOps, Software Engineer"
+ String acknowledgements = "Quality, Automation, DevOps, Software Engineering"
  
  String primarySkillset = "test automation, software quality"
  String languages = listOf("Java", "Python") 
