@@ -13,7 +13,7 @@ Object **YourName** {
  
  String primarySkillset = "test automation, software quality"
  String languages = listOf("Java", "Python") 
- String frameworks = listOf("Selenium WedDriver", "TestNG", "Appium", "JUnit", "RestAssured") 
+ String frameworks = listOf("Selenium WedDriver", "Cypress, K6, "Appium", "TestNG", "JUnit", "RestAssured") 
  
 }
 ```
